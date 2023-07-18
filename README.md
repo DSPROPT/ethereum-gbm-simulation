@@ -1,3 +1,4 @@
+![logo](logogeek.png)
 # Simulação do Movimento Browniano Geométrico para o Ethereum em Python
 
 Este repositório contém o código Python para simular a evolução dos preços do Ethereum usando o modelo de Movimento Browniano Geométrico (MBG).
